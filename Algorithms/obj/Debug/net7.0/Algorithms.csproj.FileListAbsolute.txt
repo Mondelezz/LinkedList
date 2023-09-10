@@ -1,0 +1,15 @@
+D:\СSharp\Algorithms\Algorithms\bin\Debug\net7.0\Algorithms.exe
+D:\СSharp\Algorithms\Algorithms\bin\Debug\net7.0\Algorithms.deps.json
+D:\СSharp\Algorithms\Algorithms\bin\Debug\net7.0\Algorithms.runtimeconfig.json
+D:\СSharp\Algorithms\Algorithms\bin\Debug\net7.0\Algorithms.dll
+D:\СSharp\Algorithms\Algorithms\bin\Debug\net7.0\Algorithms.pdb
+D:\СSharp\Algorithms\Algorithms\obj\Debug\net7.0\Algorithms.csproj.AssemblyReference.cache
+D:\СSharp\Algorithms\Algorithms\obj\Debug\net7.0\Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+D:\СSharp\Algorithms\Algorithms\obj\Debug\net7.0\Algorithms.AssemblyInfoInputs.cache
+D:\СSharp\Algorithms\Algorithms\obj\Debug\net7.0\Algorithms.AssemblyInfo.cs
+D:\СSharp\Algorithms\Algorithms\obj\Debug\net7.0\Algorithms.csproj.CoreCompileInputs.cache
+D:\СSharp\Algorithms\Algorithms\obj\Debug\net7.0\Algorithms.dll
+D:\СSharp\Algorithms\Algorithms\obj\Debug\net7.0\refint\Algorithms.dll
+D:\СSharp\Algorithms\Algorithms\obj\Debug\net7.0\Algorithms.pdb
+D:\СSharp\Algorithms\Algorithms\obj\Debug\net7.0\Algorithms.genruntimeconfig.cache
+D:\СSharp\Algorithms\Algorithms\obj\Debug\net7.0\ref\Algorithms.dll
